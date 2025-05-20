@@ -1,0 +1,21 @@
+/* カスタムスタイル */
+body {
+    background-color: #f5f5f5;
+}
+
+.card {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+#image-preview, #result-image {
+    max-height: 300px;
+    object-fit: contain;
+}
+
+.table {
+    font-size: 0.9rem;
+}
+
+.progress {
+    height: 0.8rem;
+}
